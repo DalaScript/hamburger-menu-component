@@ -20,7 +20,7 @@ A very simple hamburger menu component
 
 ### Screenshot
 
-[](./assets/screenshot.jpg)
+![](./assets/screenshot.jpg)
 
 ### Links
 
